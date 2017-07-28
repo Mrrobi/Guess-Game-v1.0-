@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1497671134 source:c:\users\robiuddin\desktop\guess game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1497608213 source:c:\users\robiuddin\desktop\guess game\res.rc
+
+1497608213 source:i:\desktop\guess game\res.rc
+
+1501244291 source:i:\desktop\guess game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
